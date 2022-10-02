@@ -7,3 +7,4 @@ if exist %a% (
 )
 if not exist %a% echo dir or file not detected
 pause
+
